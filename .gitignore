@@ -1,0 +1,17 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Ferramentas
+node_modules/
+.vercel/
+.netlify/
+
+# Arquivos de trabalho locais
+verificacao/
+referencias/
